@@ -26,7 +26,7 @@
 **Definition:** Is a[[Client Connection]] from the Server's POV and either a [[Server Connection]]  or [[Socket Connection]] from the Client's POV bound to an [[Endpoint]].
 
 #### [[Maximum Transmission Unit]] ([[MTU]])
-**Definition:** Establishes the maximum length of a [[Frame]] that can be sent over a [[Connection]]. If [[Data]] is too large; [[Fragmentation]] happens.
+**Definition:** Defines the maximum length of a [[Frame]] that can be sent over a [[Connection]]. If [[Data]] is too large; [[Fragmentation]] happens.
 
 #### [[Client Connection]]
 **Definition:** Managed by a Server and operates on a per [[Channel]]-basis
