@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef63fe8fd67b0d7e",
+        "id": "029bac1276e1788b",
         "type": "tabs",
         "children": [
           {
-            "id": "55255abb674f4901",
+            "id": "bf8bf0d7b5aebefc",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -157,6 +157,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "88e5eb9aa9f27c8e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -167,6 +177,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -177,14 +188,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55255abb674f4901",
+  "active": "a64c8edb6780b082",
   "lastOpenFiles": [
+    "glossary/Header.md",
     "glossary/Data.md",
     "glossary/Frame.md",
     "glossary/Body.md",
     "glossary/Glossary.md",
     "LICENSE",
-    "glossary/Header.md",
     "Must Have.md",
     "Kronos.md",
     "Features.md",
