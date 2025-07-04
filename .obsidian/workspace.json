@@ -4,139 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ef63fe8fd67b0d7e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a37643cfb363b7ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kronos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kronos"
-            }
-          },
-          {
-            "id": "533f0ab5bc43307c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes about Channel Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes about Channel Management"
-            }
-          },
-          {
-            "id": "276c9533123246b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kronos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kronos"
-            }
-          },
-          {
-            "id": "711acdf9c4e9c596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Features.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Features"
-            }
-          },
-          {
-            "id": "c13d98159716897d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kronos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kronos"
-            }
-          },
-          {
-            "id": "b89128fc35407d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glossary/Glossary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
-          },
-          {
-            "id": "b66a41e9ff292c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glossary/Glossary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
-          },
-          {
-            "id": "55255abb674f4901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glossary/Glossary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
-          },
-          {
-            "id": "d9c97282a904c64d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glossary/Glossary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
         "id": "bedc13c9461834dd",
         "type": "tabs",
         "children": [
@@ -148,7 +15,7 @@
               "state": {
                 "file": "glossary/Glossary.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Glossary"
@@ -300,25 +167,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "fc862218c4b44ad3",
   "lastOpenFiles": [
+    "glossary/Data.md",
+    "glossary/Glossary.md",
     "LICENSE",
     "glossary/Header.md",
     "glossary/Frame.md",
     "glossary/Body.md",
-    "glossary/Data.md",
     "Must Have.md",
-    "glossary/Glossary.md",
     "Kronos.md",
     "Features.md",
     "glossary",
