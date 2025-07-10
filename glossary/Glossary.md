@@ -22,7 +22,7 @@
 #### [[Endpoint]]
 **Definition:** Unique IP, Port and Channel of a Server. Clients connect to them.
 
-#### [[Port]]
+#### [[Server Port]]
 **Definition**: Internal definition of an Endpoint from the Server's Perspective. Can define a maximum amount of [[Channel]]'s to be available.
 
 #### [[Connection]]
