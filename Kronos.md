@@ -7,3 +7,5 @@ Kronos is a UDP-Based protocol allowing seamless communication between microserv
 ## [[VCS]]
 
 ## [[Glossary]]
+
+## [[Coding Guidelines]]
