@@ -22,8 +22,11 @@
 #### [[Endpoint]]
 **Definition:** Unique IP, Port and Channel of a Server. Clients connect to them.
 
+#### [[Port]]
+**Definition**: Internal definition of an Endpoint from the Server's Perspective. Can define a maximum amount of [[Channel]]'s to be available.
+
 #### [[Connection]]
-**Definition:** Is a[[Client Connection]] from the Server's POV and either a [[Server Connection]]  or [[Socket Connection]] from the Client's POV bound to an [[Endpoint]].
+**Definition:** Is a [[Client Connection]] from the Server's POV and either a [[Server Connection]]  or [[Socket Connection]] from the Client's POV bound to an [[Endpoint]].
 
 #### [[Maximum Transmission Unit]] ([[MTU]])
 **Definition:** Defines the maximum length of a [[Frame]] that can be sent over a [[Connection]]. If [[Data]] is too large; [[Fragmentation]] happens.
