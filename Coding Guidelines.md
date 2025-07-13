@@ -33,7 +33,7 @@ Address_t krs_network_address_ipv4_create(const char* ip);
 krs_error_t krs_frame_destroy(Frame_t** frame);
 ```
 
-**types:**
+**Types:**
 
 ```c
 // Pattern: TypeName_t
